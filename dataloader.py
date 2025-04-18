@@ -6,8 +6,6 @@
 # % Lehigh University, nar522@lehigh.edu, moazeni@lehigh.edu
 ####################################################################################################################
 
-
-
 import torch
 from torch.utils.data import Dataset
 import os
@@ -40,7 +38,6 @@ class LoadDataset:
 
         return train_dataset, test_dataset, val_dataset
     
-
 def set_seed(seed: int) -> None:
     """Set random seeds for reproducibility."""
     random.seed(seed)
