@@ -14,5 +14,6 @@ Lehigh University, Pennsylvania, USA
 
 This repository contains the implementation of a cybersecurity framework based on Auto-Encoders 
 for detecting False Data Injection (FDI) attacks in smart water distribution systems.
+doi link: https://doi.org/10.1061/9780784485477.096
 
 > © 2024 Nazia Raza & Farrah Moazeni
